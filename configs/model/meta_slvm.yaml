@@ -1,0 +1,5 @@
+model: meta_slvm
+stochastic: true
+
+defaults:
+  - layers: default

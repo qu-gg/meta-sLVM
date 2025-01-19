@@ -1,0 +1,14 @@
+# Dimension of the inferred task vector
+code_dim: 12
+
+# Dimension of the latent dynamics
+latent_dim: 2
+
+# Dimensions of the latent dynamics function
+latent_act: swish
+num_layers: 2
+num_hidden: 64
+
+# Encoder/Decoder dimensions
+num_filters: 32
+num_channels: 1
